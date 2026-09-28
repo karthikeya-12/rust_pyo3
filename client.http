@@ -1,0 +1,18 @@
+POST http://localhost:8000/chat HTTP/1.1
+content-type: application/json
+
+{
+    "msg": "Can you tell me what is elevenlabs?"
+}
+
+###
+
+POST http://localhost:8000/chat HTTP/1.1
+content-type: application/json
+
+{
+    "msg": "What is the sum of 12 and 12? Calculate the sum using provided tool."
+}
+
+###
+

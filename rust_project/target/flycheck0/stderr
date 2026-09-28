@@ -1,0 +1,356 @@
+   0.251326300s  INFO prepare_target{force=false package_id=rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project) target="rust_project"}: cargo::core::compiler::fingerprint: fingerprint error for rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project)/Check { test: false }/TargetInner { ..: lib_target("rust_project", ["cdylib"], "C:\\Projects\\ragas_eval\\rust_project\\src\\lib.rs", Edition2021) }
+   0.251459000s  INFO prepare_target{force=false package_id=rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project) target="rust_project"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\rust_project-6aeb95ace65eddcc\lib-rust_project`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_libgit2_prerelease
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+   0.270905800s  INFO prepare_target{force=false package_id=numpy v0.24.0 target="numpy"}: cargo::core::compiler::fingerprint: fingerprint error for numpy v0.24.0/Check { test: false }/TargetInner { ..: lib_target("numpy", ["lib"], "C:\\Users\\ManikantaKarthikeya\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\numpy-0.24.0\\src\\lib.rs", Edition2021) }
+   0.270946900s  INFO prepare_target{force=false package_id=numpy v0.24.0 target="numpy"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\numpy-9aa05402c6394714\lib-numpy`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.274102200s  INFO prepare_target{force=false package_id=ndarray v0.16.1 target="ndarray"}: cargo::core::compiler::fingerprint: fingerprint error for ndarray v0.16.1/Check { test: false }/TargetInner { benched: false, ..: lib_target("ndarray", ["lib"], "C:\\Users\\ManikantaKarthikeya\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\ndarray-0.16.1\\src\\lib.rs", Edition2018) }
+   0.274163000s  INFO prepare_target{force=false package_id=ndarray v0.16.1 target="ndarray"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\ndarray-407f1e1991d7bbc3\lib-ndarray`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.275601000s  INFO prepare_target{force=false package_id=matrixmultiply v0.3.11 target="matrixmultiply"}: cargo::core::compiler::fingerprint: fingerprint error for matrixmultiply v0.3.11/Check { test: false }/TargetInner { benched: false, ..: lib_target("matrixmultiply", ["lib"], "C:\\Users\\ManikantaKarthikeya\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\matrixmultiply-0.3.11\\src\\lib.rs", Edition2018) }
+   0.275656900s  INFO prepare_target{force=false package_id=matrixmultiply v0.3.11 target="matrixmultiply"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\matrixmultiply-149fc1a81b05ef03\lib-matrixmultiply`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.278753000s  INFO prepare_target{force=false package_id=rawpointer v0.2.1 target="rawpointer"}: cargo::core::compiler::fingerprint: fingerprint error for rawpointer v0.2.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("rawpointer", ["lib"], "C:\\Users\\ManikantaKarthikeya\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rawpointer-0.2.1\\src\\lib.rs", Edition2015) }
+   0.278792500s  INFO prepare_target{force=false package_id=rawpointer v0.2.1 target="rawpointer"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\rawpointer-bb2b162000b0fb41\lib-rawpointer`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.279478000s  INFO prepare_target{force=false package_id=num-complex v0.4.6 target="num_complex"}: cargo::core::compiler::fingerprint: fingerprint error for num-complex v0.4.6/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_complex", ["lib"], "C:\\Users\\ManikantaKarthikeya\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\num-complex-0.4.6\\src\\lib.rs", Edition2021) }
+   0.279510300s  INFO prepare_target{force=false package_id=num-complex v0.4.6 target="num_complex"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\num-complex-dba1906814b7b382\lib-num_complex`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.280177700s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="num_traits"}: cargo::core::compiler::fingerprint: fingerprint error for num-traits v0.2.19/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_traits", ["lib"], "C:\\Users\\ManikantaKarthikeya\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\num-traits-0.2.19\\src\\lib.rs", Edition2021) }
+   0.280210000s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="num_traits"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\num-traits-05a677266cb562e0\lib-num_traits`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.283002900s  INFO prepare_target{force=false package_id=num-integer v0.1.47 target="num_integer"}: cargo::core::compiler::fingerprint: fingerprint error for num-integer v0.1.47/Check { test: false }/TargetInner { ..: lib_target("num_integer", ["lib"], "C:\\Users\\ManikantaKarthikeya\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\num-integer-0.1.47\\src\\lib.rs", Edition2018) }
+   0.283059700s  INFO prepare_target{force=false package_id=num-integer v0.1.47 target="num_integer"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\num-integer-7f41101b449f3afb\lib-num_integer`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.307584200s  INFO prepare_target{force=false package_id=rustc-hash v2.1.3 target="rustc_hash"}: cargo::core::compiler::fingerprint: fingerprint error for rustc-hash v2.1.3/Check { test: false }/TargetInner { ..: lib_target("rustc_hash", ["lib"], "C:\\Users\\ManikantaKarthikeya\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rustc-hash-2.1.3\\src\\lib.rs", Edition2021) }
+   0.307628200s  INFO prepare_target{force=false package_id=rustc-hash v2.1.3 target="rustc_hash"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\rustc-hash-6e0fce87fbe0d5b3\lib-rustc_hash`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.308323800s  INFO prepare_target{force=false package_id=rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project) target="rust_project"}: cargo::core::compiler::fingerprint: fingerprint error for rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project)/Check { test: true }/TargetInner { ..: lib_target("rust_project", ["cdylib"], "C:\\Projects\\ragas_eval\\rust_project\\src\\lib.rs", Edition2021) }
+   0.308356300s  INFO prepare_target{force=false package_id=rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project) target="rust_project"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\rust_project-768d87a87fa2aaab\test-lib-rust_project`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_libgit2_prerelease
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+   0.309235100s  INFO prepare_target{force=false package_id=rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project) target="rust_project"}: cargo::core::compiler::fingerprint: fingerprint error for rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project)/Check { test: false }/TargetInner { name: "rust_project", doc: true, ..: with_path("C:\\Projects\\ragas_eval\\rust_project\\src\\main.rs", Edition2021) }
+   0.309266800s  INFO prepare_target{force=false package_id=rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project) target="rust_project"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\rust_project-b69187e46692dad3\bin-rust_project`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_libgit2_prerelease
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+   0.310040600s  INFO prepare_target{force=false package_id=rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project) target="rust_project"}: cargo::core::compiler::fingerprint: fingerprint error for rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project)/Check { test: true }/TargetInner { name: "rust_project", doc: true, ..: with_path("C:\\Projects\\ragas_eval\\rust_project\\src\\main.rs", Edition2021) }
+   0.310069200s  INFO prepare_target{force=false package_id=rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project) target="rust_project"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Projects\ragas_eval\rust_project\target\debug\.fingerprint\rust_project-f5815ebd2410a401\test-bin-rust_project`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_libgit2_prerelease
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: git_midx_writer_dump
+  16: git_filter_source_repo
+  17: git_midx_writer_dump
+  18: BaseThreadInitThunk
+  19: RtlUserThreadStart
+    Checking rawpointer v0.2.1
+    Checking num-traits v0.2.19
+    Checking rustc-hash v2.1.3
+    Checking matrixmultiply v0.3.11
+    Checking num-complex v0.4.6
+    Checking num-integer v0.1.47
+    Checking ndarray v0.16.1
+    Checking numpy v0.24.0
+    Checking rust_project v0.1.0 (C:\Projects\ragas_eval\rust_project)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 25.69s

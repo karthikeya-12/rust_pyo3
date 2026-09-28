@@ -1,0 +1,14 @@
+C:\Projects\ragas_eval\rust_project\target\debug\deps\pyo3_build_config-98befcffd797b2d9.d: C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\lib.rs C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\errors.rs C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\impl_.rs C:\Projects\ragas_eval\rust_project\target\debug\build\pyo3-build-config-14b32ae0c6384a8c\out/pyo3-build-config-file.txt C:\Projects\ragas_eval\rust_project\target\debug\build\pyo3-build-config-14b32ae0c6384a8c\out/pyo3-build-config.txt
+
+C:\Projects\ragas_eval\rust_project\target\debug\deps\libpyo3_build_config-98befcffd797b2d9.rlib: C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\lib.rs C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\errors.rs C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\impl_.rs C:\Projects\ragas_eval\rust_project\target\debug\build\pyo3-build-config-14b32ae0c6384a8c\out/pyo3-build-config-file.txt C:\Projects\ragas_eval\rust_project\target\debug\build\pyo3-build-config-14b32ae0c6384a8c\out/pyo3-build-config.txt
+
+C:\Projects\ragas_eval\rust_project\target\debug\deps\libpyo3_build_config-98befcffd797b2d9.rmeta: C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\lib.rs C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\errors.rs C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\impl_.rs C:\Projects\ragas_eval\rust_project\target\debug\build\pyo3-build-config-14b32ae0c6384a8c\out/pyo3-build-config-file.txt C:\Projects\ragas_eval\rust_project\target\debug\build\pyo3-build-config-14b32ae0c6384a8c\out/pyo3-build-config.txt
+
+C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\lib.rs:
+C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\errors.rs:
+C:\Users\ManikantaKarthikeya\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pyo3-build-config-0.24.2\src\impl_.rs:
+C:\Projects\ragas_eval\rust_project\target\debug\build\pyo3-build-config-14b32ae0c6384a8c\out/pyo3-build-config-file.txt:
+C:\Projects\ragas_eval\rust_project\target\debug\build\pyo3-build-config-14b32ae0c6384a8c\out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.24.2
+# env-dep:OUT_DIR=C:\\Projects\\ragas_eval\\rust_project\\target\\debug\\build\\pyo3-build-config-14b32ae0c6384a8c\\out
